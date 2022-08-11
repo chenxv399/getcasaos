@@ -82,7 +82,7 @@ readonly CASA_LOGS_PATH=/var/log/casaos/
 readonly CASA_PACKAGE_EXT=".tar.gz"
 readonly CASA_RELEASE_API="https://api.github.com/repos/${CASA_REPO}/releases"
 readonly CASA_OPENWRT_DOCS="https://github.com/IceWhaleTech/CasaOS-OpenWrt"
-readonly CASA_UNINSTALL_URL="https://raw.githubusercontent.com/IceWhaleTech/get/main/casaos-uninstall"
+readonly CASA_UNINSTALL_URL="https://raw.githubusercontents.com/IceWhaleTech/get/main/casaos-uninstall"
 readonly CASA_UNINSTALL_PATH=/usr/bin/casaos-uninstall
 
 readonly COLOUR_RESET='\e[0m'
